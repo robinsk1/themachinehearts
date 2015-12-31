@@ -10,7 +10,7 @@ owner:
   name:           The Machine Hearts
   avatar:         the-machine-hearts.png
   bio:            "We think to much and feel too little."
-  email:          you@email.com
+  #email:          you@email.com
   # Social networking links used in footer. Update and remove as you like.
   #twitter:        
   #facebook:       
@@ -24,15 +24,15 @@ owner:
   #google_plus:    +yourid
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   
+google_analytics: UA-71842199-1
 google_verify:      
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:         
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    Europ/Madrid
+timezone:    Europe/Madrid
 future:      true
-highlighter:    true
+pygments:    true
 markdown:    kramdown
 
 # Amount of posts to show on home page
